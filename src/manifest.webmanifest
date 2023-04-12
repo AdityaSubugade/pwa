@@ -1,0 +1,23 @@
+{
+    "name": "Pwa App",
+    "short_name": "pwaApp",
+    "lang": "en-US",
+    "start_url": "/index.html",
+    "id": "/index.html",
+    "display": "standalone",
+    "theme_color": "#233b69",
+    "icons": [
+    {
+    "src": "assets/images/kdw.png",
+    "sizes": "71x71",
+    "type": "image/png",
+    "purpose": "any"
+  },
+   {
+    "src": "assets/images/image284.png",
+    "sizes": "284x284",
+    "type": "image/png",
+    "purpose": "any"
+  }
+    ]
+  }
